@@ -8,9 +8,11 @@
 * Underscore
 * Stylus
 * jQuery
+* Bootstrap
 * HTML5
 * CSS3
 
 ## Application
 
-- REST API return JSONP data responses for admin and public interface
+API constructed with RESTful best practices. Endpoints documented with
+Sphinx. User interface constructed with module pattern.
